@@ -1,5 +1,5 @@
 # restapi
 
-REST API FEITA EM .NET CORE
+API REST desenvolvida em .NET CORE, implementando os principais verbos HTTP utilizados em requisições, POST, GET, PUT, DELETE.
 
-IMPLEMENTANDO ALÉM DO REST O GRAPHQL
+
